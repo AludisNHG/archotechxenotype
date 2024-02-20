@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<XenotypeDef>
+		<defName>Archorace_ArchotechXenotype</defName>
+		<label>archotech</label>
+		<description>An assortment of genes most commonly used by archotech AIs to crate bodies for themselves or modify those of their servants. These marvels of genetic engineering are capable of enduring quite a beating.</description>
+		<iconPath>Icons/Archorace_Archotech</iconPath>
+		<inheritable>false</inheritable>
+		<combatPowerFactor>2</combatPowerFactor>
+		<genes>
+			<li>Hair_BaldOnly</li>
+			<li>Beard_NoBeardOnly</li>
+			<li>TotalHealing</li>
+			<li>Neversleep</li>
+			<li>Ageless</li>
+			<li>PerfectImmunity</li>
+			<li>DiseaseFree</li>
+			<li>ArchiteMetabolism</li>
+			<li>Archorace_ArchoskinGene</li>
+			<li>Archorace_Learning</li>
+		</genes>
+	</XenotypeDef>
+</Defs>
