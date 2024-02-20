@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+
+
+
+	<!-- Average -->
+
+	<HeadTypeDef ParentName="AverageBase">
+		<defName>Archorace_ArchoskinAverage1Male</defName>
+		<graphicPath>Pawn/ArchoskinHeads/Archoskin_Male_Average_Normal</graphicPath>
+		<randomChosen>false</randomChosen>
+		<gender>Male</gender>
+		<requiredGenes>
+			<li>Archorace_ArchoskinGene</li>
+		</requiredGenes>
+	</HeadTypeDef>
+	<HeadTypeDef ParentName="AverageBase">
+		<defName>Archorace_ArchoskinAverage1Female</defName>
+		<graphicPath>Pawn/ArchoskinHeads/Archoskin_Female_Average_Normal</graphicPath>
+		<randomChosen>false</randomChosen>
+		<gender>Female</gender>
+		<requiredGenes>
+			<li>Archorace_ArchoskinGene</li>
+		</requiredGenes>
+	</HeadTypeDef>
+	<HeadTypeDef ParentName="AverageBase">
+		<defName>Archorace_ArchoskinAverage2Male</defName>
+		<graphicPath>Pawn/ArchoskinHeads/Archoskin_Male_Average_Pointy</graphicPath>
+		<randomChosen>false</randomChosen>
+		<gender>Male</gender>
+		<requiredGenes>
+			<li>Archorace_ArchoskinGene</li>
+		</requiredGenes>
+	</HeadTypeDef>
+	<HeadTypeDef ParentName="AverageBase">
+		<defName>Archorace_ArchoskinAverage2Female</defName>
+		<graphicPath>Pawn/ArchoskinHeads/Archoskin_Female_Average_Pointy</graphicPath>
+		<randomChosen>false</randomChosen>
+		<gender>Female</gender>
+		<requiredGenes>
+			<li>Archorace_ArchoskinGene</li>
+		</requiredGenes>
+	</HeadTypeDef>
+	<HeadTypeDef ParentName="AverageBase">
+		<defName>Archorace_ArchoskinAverage3Male</defName>
+		<graphicPath>Pawn/ArchoskinHeads/Archoskin_Male_Average_Wide</graphicPath>
+		<randomChosen>false</randomChosen>
+		<gender>Male</gender>
+		<requiredGenes>
+			<li>Archorace_ArchoskinGene</li>
+		</requiredGenes>
+	</HeadTypeDef>
+	<HeadTypeDef ParentName="AverageBase">
+		<defName>Archorace_ArchoskinAverage3Female</defName>
+		<graphicPath>Pawn/ArchoskinHeads/Archoskin_Female_Average_Wide</graphicPath>
+		<randomChosen>false</randomChosen>
+		<gender>Female</gender>
+		<requiredGenes>
+			<li>Archorace_ArchoskinGene</li>
+		</requiredGenes>
+	</HeadTypeDef>
+	
+	<!-- Narrow -->
+
+	<HeadTypeDef ParentName="AverageBase">
+		<defName>Archorace_ArchoskinNarrow1Male</defName>
+		<graphicPath>Pawn/ArchoskinHeads/Archoskin_Male_Narrow_Normal</graphicPath>
+		<randomChosen>false</randomChosen>
+		<gender>Male</gender>
+		<requiredGenes>
+			<li>Archorace_ArchoskinGene</li>
+		</requiredGenes>
+	</HeadTypeDef>
+	<HeadTypeDef ParentName="AverageBase">
+		<defName>Archorace_ArchoskinNarrow1Female</defName>
+		<graphicPath>Pawn/ArchoskinHeads/Archoskin_Female_Narrow_Normal</graphicPath>
+		<randomChosen>false</randomChosen>
+		<gender>Female</gender>
+		<requiredGenes>
+			<li>Archorace_ArchoskinGene</li>
+		</requiredGenes>
+	</HeadTypeDef>	
+	<HeadTypeDef ParentName="AverageBase">
+		<defName>Archorace_ArchoskinNarrow2Male</defName>
+		<graphicPath>Pawn/ArchoskinHeads/Archoskin_Male_Narrow_Pointy</graphicPath>
+		<randomChosen>false</randomChosen>
+		<gender>Male</gender>
+		<requiredGenes>
+			<li>Archorace_ArchoskinGene</li>
+		</requiredGenes>
+	</HeadTypeDef>
+	<HeadTypeDef ParentName="AverageBase">
+		<defName>Archorace_ArchoskinNarrow2Female</defName>
+		<graphicPath>Pawn/ArchoskinHeads/Archoskin_Female_Narrow_Pointy</graphicPath>
+		<randomChosen>false</randomChosen>
+		<gender>Female</gender>
+		<requiredGenes>
+			<li>Archorace_ArchoskinGene</li>
+		</requiredGenes>
+	</HeadTypeDef>
+	<HeadTypeDef ParentName="AverageBase">
+		<defName>Archorace_ArchoskinNarrow3Male</defName>
+		<graphicPath>Pawn/ArchoskinHeads/Archoskin_Male_Narrow_Wide</graphicPath>
+		<randomChosen>false</randomChosen>
+		<gender>Male</gender>
+		<requiredGenes>
+			<li>Archorace_ArchoskinGene</li>
+		</requiredGenes>
+	</HeadTypeDef>
+	<HeadTypeDef ParentName="AverageBase">
+		<defName>Archorace_ArchoskinNarrow3Female</defName>
+		<graphicPath>Pawn/ArchoskinHeads/Archoskin_Female_Narrow_Wide</graphicPath>
+		<randomChosen>false</randomChosen>
+		<gender>Female</gender>
+		<requiredGenes>
+			<li>Archorace_ArchoskinGene</li>
+		</requiredGenes>
+	</HeadTypeDef>
+	
+	
+	
+</Defs>

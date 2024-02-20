@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <FurDef>
+    <defName>Archorace_Archoskin</defName>
+    <noGraphic>true</noGraphic>
+    <bodyTypeGraphicPaths>
+      <Male>Pawn/Archoskin/Archoskin_Male</Male>
+      <Female>Pawn/Archoskin/Archoskin_Female</Female>
+      <Hulk>Pawn/Archoskin/Archoskin_Hulk</Hulk>
+      <Fat>Pawn/Archoskin/Archoskin_Fat</Fat>
+      <Thin>Pawn/Archoskin/Archoskin_Thin</Thin>
+      <Child>Pawn/Archoskin/Archoskin_Child</Child>
+      <Baby>Pawn/Archoskin/Archoskin_Child</Baby><!-- Always covered by swaddled graphic -->
+    </bodyTypeGraphicPaths>
+  </FurDef>
+  
+  
+
+</Defs>
